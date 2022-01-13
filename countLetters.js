@@ -19,3 +19,5 @@ const countLetters = function (words) {
   }
   return counts;
 };
+
+assertEqual(countLetters("hh").h, 3);
