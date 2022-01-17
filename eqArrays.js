@@ -10,4 +10,4 @@ const eqArray = (arr1, arr2) => {
   return true;
 };
 
-module.exports = { eqArray };
+module.exports = eqArray;

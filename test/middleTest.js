@@ -1,5 +1,5 @@
 const assert = require("chai").assert;
-const middle = require("../midle");
+const middle = require("../middle");
 
 describe("#middle", () => {
   it("should return middle value from the array if array length is odd numbers", () => {
