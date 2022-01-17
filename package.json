@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@rofrado9178/lotide",
   "version": "1.0.0",
   "description": "package for testing make a few lodash replica",
   "main": "assertArrayEqual.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/rofrado9178/lotide.git"
   },
-  "author": "Fransiskus Aldo",
+  "author": "Fransiskus Aldi <aldzaidea@gmail.com> (https://github.com/rofrado9178/lotide)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rofrado9178/lotide/issues"
@@ -22,5 +22,6 @@
   "devDependencies": {
     "chai": "^4.3.4",
     "mocha": "^9.1.4"
-  }
+  },
+  "dependencies": {}
 }
